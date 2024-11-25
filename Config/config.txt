@@ -1,0 +1,9 @@
+start_sticker_id=CAACAgEAAxkBAANBZw-itLiIMLnbytiz_ET7HEbr6aMAAsoEAAIVu4FEKyJlErbjsx42BA
+win_sticker_id=CAACAgEAAxkBAANgZw-wSC4_oZoes4UCzLdZHr7_p6EAAuwEAAKvrXhESkvXviqGgAY2BA
+link_corretora=https://trade.avalonbroker.io/register?aff=429105&aff_model=revenue&afftrack=
+chat_id=-4588651590
+bot_token=7861486040:AAHS0EXHfOjE1LpzMAIjCay3ov7owxC2840
+mensagens_sinais={"frase_1" : "🌐 Ativo:", "frase_2" : "⏳ Expiração:", "frase_4" : "🕙 Entrada:", "frase_5" : "🛡️ Proteção em caso de LOSS:", "frase_6" : "1° Proteção:", "frase_7" : "2° Proteção:"}
+mensagens_relatorio={"frase_1" : "📊 Relatório da última sessão:", "frase_3" : "Resultado final:"}
+mensagem_adicional={"texto" : "", "link" : ""}
+sessao_sinais=[{'horario':'18:08', 'min_sinais': 8, 'max_sinais': 8}, {'horario':'20:02', 'min_sinais': 2, 'max_sinais': 4}]
